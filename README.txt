@@ -1,11 +1,5 @@
 Ex03 - Pick Up Sticks Game (using SFML ans STL containers)
 ====================
-file: oop2_ex2-David_Weschler-Ron_Avital.zip
-
-Programmers: David Weschler	209736578
-			 Ron Avital		318751419
-
-
 Description: 
 In this OOP exercise, we developed the game "Pick Up Sticks." 
 The game is time-limited, requiring the player to pick up all the sticks 
